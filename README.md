@@ -9,3 +9,4 @@ The idea is to automate the development workflow and to build a CI/CD pipeline u
 
 
 See more about the article [HERE](https://medium.com/@hacene.upmc/automate-your-development-workflow-with-github-actions-220a737abb3c)
+Fineshift ltd
